@@ -1,0 +1,1 @@
+{"version":3,"sources":["App.css"],"names":[],"mappings":"AAAA,KACI,cACJ,CAEA,OACI,WAAY,CACZ,SACJ","file":"main.aeee7fc4.chunk.css","sourcesContent":["body {\n    margin-top: 20%;\n}\n\nbutton {\n    width: 200px;\n    margin: 1%;\n}"]}

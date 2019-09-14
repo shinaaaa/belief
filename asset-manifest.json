@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/belief/static/css/main.aeee7fc4.chunk.css",
+    "main.js": "/belief/static/js/main.9d4264ba.chunk.js",
+    "main.js.map": "/belief/static/js/main.9d4264ba.chunk.js.map",
+    "runtime~main.js": "/belief/static/js/runtime~main.a936d830.js",
+    "runtime~main.js.map": "/belief/static/js/runtime~main.a936d830.js.map",
+    "static/js/2.1dc48fd2.chunk.js": "/belief/static/js/2.1dc48fd2.chunk.js",
+    "static/js/2.1dc48fd2.chunk.js.map": "/belief/static/js/2.1dc48fd2.chunk.js.map",
+    "index.html": "/belief/index.html",
+    "precache-manifest.5ca3223f654121180d3b357268b5dfac.js": "/belief/precache-manifest.5ca3223f654121180d3b357268b5dfac.js",
+    "service-worker.js": "/belief/service-worker.js",
+    "static/css/main.aeee7fc4.chunk.css.map": "/belief/static/css/main.aeee7fc4.chunk.css.map"
+  }
+}
